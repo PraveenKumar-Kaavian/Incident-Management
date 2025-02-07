@@ -18,6 +18,7 @@ conversation  : Composition of many {
 }
 
 /**
+ * Entity
 * Customers entitled to create support Incidents.
 */
 entity Customers : managed { 
